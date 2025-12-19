@@ -23,7 +23,7 @@ on:
         type: string
       bundle_id:
         description: "Modify the bundle ID"
-        default: "com.google.ios.youtube"
+        default: "com.google.ios.youtube.ass"
         required: true
         type: string
       app_name:
